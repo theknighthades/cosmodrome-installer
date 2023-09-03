@@ -1,2 +1,3 @@
-# cosmodrome-installer
-installs cosmodrome alongside a fresh Arch Linux build
+# Cosmodrome-Installer
+
+This is a simple script that installs Artix Linux and Cosmodrome.
