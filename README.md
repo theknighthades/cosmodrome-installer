@@ -15,4 +15,4 @@ sh cosmodrome-installer.sh
 
 # Future Developments
 
-I am considering porting the script for the systemd and runit init systems, but it's not important as of now.
+I am considering porting the script to other init systems, but it's not important as of now.
