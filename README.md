@@ -11,7 +11,6 @@ In the OpenRC variant of the Artix Linux iso, run the following as root:
 git clone https://github.com/theknighthades/cosmodrome-installer
 cd cosmodrome-installer/
 sh cosmodrome-installer.sh
-
 ```
 
 # Future Developments
