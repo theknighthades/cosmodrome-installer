@@ -5,13 +5,14 @@ Any customization is to be done by modifying the script itself. Once launched, t
 
 # Installation
 
-In the OpenRC variant of the Artix Linux iso, run the following as root:
+In the OpenRC variant of the Artix Linux .iso, run the following as root:
 
 ```
 git clone https://github.com/theknighthades/cosmodrome-installer
 cd cosmodrome-installer/
 sh cosmodrome-installer.sh
 ```
+That's it. 
 
 # Future Developments
 
